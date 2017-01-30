@@ -1,2 +1,2 @@
 # docker-zimbra
-Dockerfile Zimbra on Docker
+Dockerfile Zimbra on Docker.
